@@ -17,3 +17,4 @@ IMPORTANT LINKS
 https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/
 https://www.codeofaninja.com/2011/12/php-and-mysql-crud-tutorial.html
 https://www.tutorialrepublic.com/snippets/gallery.php
+https://www.developerdrive.com/author/DeveloperDrive-Staff/
